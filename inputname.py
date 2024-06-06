@@ -1,0 +1,10 @@
+#An input python code asking for your name, designation, emailaddress, phone number and print the details
+print("What is your Name")
+Name=input()
+print("what is your Designation")
+Designation=input()
+print("E-mail address")
+Email_address=input()
+print("Phonenumber")
+Phone_number=input()
+print("These are my details:" + Name + "," + Designation + "," + Email_address + "," + Phone_number)
