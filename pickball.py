@@ -4,5 +4,5 @@ blackball=3
 yellowball=4
 whiteball=5
 for y in list:
-    if y=="yellowball":
-        print(" It is a yellow ball: " + y)
+    if y=="blackball":
+        print(" It is a black ball: " + y)
